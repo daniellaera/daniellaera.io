@@ -8,13 +8,30 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@headlessui/react": "^1.4.2",
+    "@heroicons/react": "^1.0.5",
+    "@tailwindcss/typography": "^0.4.1",
+    "@types/node": "^16.11.10",
+    "@types/react-dom": "^17.0.11",
+    "disqus-react": "^1.1.2",
+    "gray-matter": "^4.0.3",
     "next": "12.0.4",
+    "next-mdx-remote": "^3.0.8",
+    "next-themes": "^0.0.15",
     "react": "17.0.2",
-    "react-dom": "17.0.2"
+    "react-dom": "17.0.2",
+    "react-icons": "^4.3.1",
+    "react-switch": "^6.0.0",
+    "sass": "^1.43.4",
+    "swr": "^1.1.0",
+    "ts-node": "^10.4.0"
   },
   "devDependencies": {
     "@types/react": "^17.0.35",
+    "autoprefixer": "^10.4.0",
     "eslint": "7.32.0",
-    "eslint-config-next": "12.0.4"
+    "eslint-config-next": "12.0.4",
+    "postcss": "^8.3.11",
+    "tailwindcss": "^2.2.19"
   }
 }
