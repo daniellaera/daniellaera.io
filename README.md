@@ -4,4 +4,4 @@
 
 ## Learn More
 
-[![Deployment Status](https://img.shields.io/endpoint?url=https://devx.sh/api/deployment)](https://devx.sh)
+[![Deployment Status](https://img.shields.io/endpoint?url=https://daniellaera-io-d4h5e43tk-laeradaniel-hotmailcom.vercel.app/)](https://devx.sh)

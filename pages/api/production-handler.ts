@@ -3,7 +3,7 @@ import type { NextApiRequest, NextApiResponse } from 'next';
 
 const handler = async (req: NextApiRequest, res: NextApiResponse): Promise<void> => {
   await deploymentBadgeHandler(req, res, {
-    deploymentsUrl: 'https://github.com/daniellaera/daniellaera.io/deployments',
+    deploymentsUrl: 'https://daniellaera-io.vercel.app/',
     namedLogo: 'vercel',
     env: 'Production'
   });
