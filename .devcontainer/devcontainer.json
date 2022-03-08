@@ -24,7 +24,8 @@
 		"dbaeumer.vscode-eslint",
 		"mutantdino.resourcemonitor",
 		"eamodio.gitlens",
-		"esbenp.prettier-vscode"
+		"esbenp.prettier-vscode",
+		"file-icons.file-icons"
 	],
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
 	// "forwardPorts": [],
